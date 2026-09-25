@@ -9,7 +9,7 @@ def show_menu():
     print("3. View Portfolio Summary")
     print("4. Exit")
     print("----------------------------------")
-
+# Creating  main function 
 def main():
     # Hardcoded dummy prices for stocks (Dict: Stock Symbol -> Price in USD/INR)
     stock_prices = {
